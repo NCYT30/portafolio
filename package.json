@@ -2,7 +2,7 @@
   "name": "react-porfolio-website-1",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://NCYT30.github.io/portafolio",
+  "homepage": "https://ncyt30.github.io/portafolio/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
